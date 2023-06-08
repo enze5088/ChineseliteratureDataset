@@ -20,7 +20,7 @@
 ## 引用
 ```
 @misc{ChineseliteratureDataset,
-  author = {EnZe},
+  author = {Nursery},
   title = {ChineseliteratureDataset},
   year = {2023},
   publisher = {GitHub},
