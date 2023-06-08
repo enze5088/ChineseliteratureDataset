@@ -18,6 +18,7 @@
 公益性质项目，有兴趣一起完善的朋友可以在issue里留言，或者私信共同协作。
 
 ## 引用
+```
 @misc{ChineseliteratureDataset,
   author = {PuMiao},
   title = {ChineseliteratureDataset},
@@ -26,3 +27,4 @@
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/enze5088/ChineseliteratureDataset}},
 }
+```
